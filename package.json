@@ -1,6 +1,6 @@
 {
   "name": "@cckim/go-wasm",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A convenient way to run go compiled wasm files on browsers and node",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -15,7 +15,12 @@
     "type": "git",
     "url": "git+https://github.com/hubvue/go-wasm.git"
   },
-  "keywords": ["wasm", "go", "node", "cmd"],
+  "keywords": [
+    "wasm",
+    "go",
+    "node",
+    "cmd"
+  ],
   "author": "hubvue",
   "license": "ISC",
   "bugs": {
