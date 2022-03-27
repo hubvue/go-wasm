@@ -1,6 +1,8 @@
 # go-wasm
 A convenient way to run go compiled wasm files on node
 
+** To learn more, please move to [Go Wasmer](https://github.com/hubvue/tools/tree/main/packages/go-wasmer)**
+
 ### Install
 ```shell
 # pnpm
